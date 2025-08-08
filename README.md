@@ -1,16 +1,54 @@
-## Hi there 👋
+# Carlos Eduardo Souza Melo 👨‍💻
 
-<!--
-**cesmelo/cesmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building systems with logic and intention.**  
+AI and automation as extensions of the mind — code as a weapon, not decoration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👁 Sobre Mim
+
+Sou estudante de Desenvolvimento de Sistemas pelo SENAI Petrópolis.  
+Vejo a programação como uma ferramenta — não como fim, mas como meio de controle, automação e expressão lógica.
+
+Me interesso por:
+- 🔐 Segurança da informação
+- 🤖 Inteligência Artificial com personalidade
+- ⚙️ Automação de processos e ideias
+- 🧠 Construção de sistemas com clareza, estrutura e propósito
+
+---
+
+## 🎯 Objetivos Atuais
+
+- Desenvolver lógica sólida e limpa  
+- Automatizar pequenas ideias e rotinas  
+- Construir minha primeira IA com comportamento definido  
+- Iniciar projetos públicos que reflitam identidade e estrutura
+
+---
+
+## 🛠️ Ferramentas e Tecnologias (em progresso)
+
+- Linguagens: `Python`, `HTML`, `CSS`, `JavaScript`
+- Lógica e algoritmos
+- Git e versionamento
+- Scratch (lógica visual)
+- Estruturação de projetos
+
+---
+
+## 📍 Localização
+
+Petrópolis – RJ, Brasil  
+Estudante SENAI | Disponível para colaborações técnicas e projetos de estudo
+
+---
+
+## 📫 Contato
+
+Email: ces.melo21@gmail.com  
+GitHub: [@cesmelo](https://github.com/cesmelo)
+
+---
+
+> “Código como ferramenta. Lógica como linguagem. Sistemas como forma de pensar.”
