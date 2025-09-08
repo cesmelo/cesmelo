@@ -12,18 +12,9 @@ Vejo a programação como uma ferramenta — não como fim, mas como meio de con
 
 Me interesso por:
 - 🔐 Segurança da informação
-- 🤖 Inteligência Artificial com personalidade
+- 🤖 Inteligência Artificial 
 - ⚙️ Automação de processos e ideias
-- 🧠 Construção de sistemas com clareza, estrutura e propósito
-
----
-
-## 🎯 Objetivos Atuais
-
-- Desenvolver lógica sólida e limpa  
-- Automatizar pequenas ideias e rotinas  
-- Construir minha primeira IA com comportamento definido  
-- Iniciar projetos públicos que reflitam identidade e estrutura
+- 🧠 Construção de sistemas 
 
 ---
 
@@ -32,7 +23,6 @@ Me interesso por:
 - Linguagens: `Python`, `HTML`, `CSS`, `JavaScript`
 - Lógica e algoritmos
 - Git e versionamento
-- Scratch (lógica visual)
 - Estruturação de projetos
 
 ---
