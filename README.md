@@ -17,7 +17,6 @@ Estudante do Técnico em Desenvolvimento de Sistemas no SENAI Petrópolis
 - Automação com Python (organizar arquivos, pequenas rotinas, CLI)
 - IA estreita: prompts e avaliação para uma tarefa específica
 - Validação de entrada e pensamento de falhas (robustez)
-- Git disciplinado (commits claros) e leitura de código
 - Shell/Linux e redes básicas
 
 ## Agora
